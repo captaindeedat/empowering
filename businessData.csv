@@ -1,0 +1,128 @@
+business id, business name, business type, important skill, fund required, monthly expenditure,monthly annual profit, num staff, major product,contact phone ,expansion capital, firstexpansion strategy
+1,Vulcanizing/Tyre repairs and maintenance,Vulcanizing/Tyre repairs and maintenance,technical know how,50k,50k,80k monthly/ 960k yearly,3,NULL,9030473437,NULL,Get a larger space
+2,Uzu Driving School Nsukka,Driving School,Driving Skills and Communication skills,150k,30k,80k monthly/ 960k yearly,2,NULL,8037755083,500k,Get more cars
+3,Laptop Importation/Sales,Laptop Importation/Sales,Marketing Skills,300k,30k,80k monthly/ 960k yearly,2,NULL,90242091406,1 million,get more branches
+4,Dj palata Djing services,Djing Services,technical know how,200k,20k,80k monthly/ 960k yearly,0,NULL,8064290423,400k,Buy advanced equipments
+5,Mandela Private Fitness Trainer,Private Fitness Trainer,technical know how and Patience,40k,20k,80k monthly/ 960k yearly,1,NULL,8039520797,300k,get a big hall
+6,Grace Computer Centre,Computer Centre,Managerial Skills and technical know how,100k,50k,80k monthly/ 960k yearly,4,NULL,8032533524,200k,get more branches
+7,Korede Butcher/ Meat Dealer,Cow Slaughtering/Butcher Services,technical know how,30k,40k,80k monthly/ 960k yearly,5,NULL,8164610970,100k,Get a larger space
+8,Adepoju Ibrahim Rabbit Farm,Rabbit Farming,Managerial Skills and technical know how,100k,50k,80k monthly/ 960k yearly,4,NULL,8135578063,200k,Get a larger space
+9,Kals Groundnuts,Groundnut Farming,Managerial Skills and technical know how,100k,40k,80k monthly/ 960k yearly,5,NULL,8165930499,200k,Get a larger space
+10,Kals Groundnuts,Groundnut Farming,Managerial Skills and technical know how,100k,40k,80k monthly/ 960k yearly,5,NULL,8165930499,200k,Get a larger space
+11,Onamila Candles,Candle Manufacturing,Managerial Skills and technical know how,150k,50k,80k monthly/ 960k yearly,10,NULL,7065585741,200k,get more branches
+12,Fruity Zobo,Zobo Production/Sales,Managerial Skills and technical know how,100k,60k,80k monthly/ 960k yearly,5,NULL,8034519630,200k,get more branches
+13,Kenny G Barbing salon,Barbing salon,Barbing skills/ Patience,100k,40k,70k monthly/ 840 yearly,NULL,NULL,7062979478,250k,Get a larger space
+14,Ok Foods/Biscuits,Biscuit Production,Managerial Skills and technical know how,12-15 million,300k,700k monthly/ 8.4 million yearly,30,Biscuits,8051559355,20 million,Build a another plant
+15,Etc Agro Fertilizers,Fertilizer Production,Managerial Skills and technical know how,1 million,300k,700k monthly/ 8.4 million yearly,20,NULL,8184910986,10 million,Expand the factory
+16,Idoko Motorcycle Repairs,Motorcycle Repairs,technical know how,50k,30k,60k/720k,3,NULL,8031337992,100k,get more branches
+17,Seyi Phone Repairs,Phone Repairs,technical know how,40k,40k,60k/720k,3,NULL,8184800116,200k,get more branches
+18,St Patrick Video Game Centre,Video Game Centre,Managerial Skills,100k,40k,60k/720k,2,NULL,8032423515,200k,Get a larger space
+19,Fruit Emporium Fruit sales,Fruit Sales ,Managerial Skills,50k,50k,60k/720k,4,Apple,8034471367,100k,get more branches
+20,Fruit Emporium Fruit sales,Fruit Sales ,Managerial Skills,50k,50k,60k/720k,4,Apple,8034471367,100k,get more branches
+21,Fruit Emporium Fruit sales,Fruit Sales ,Managerial Skills,50k,50k,60k/720k,4,Apple,8034471367,100k,get more branches
+22,Lesgup Cassava Farms,Cassava Farming,Managerial Skills and technical know how,100k,20k,60k/720k,2,NULL,8164628081,200k,Get a larger space
+23,Aqua Gracia Bottled water,Bottled Water Production,Managerial Skills and technical know how,12-15 million,1 million,600k/7.2million,20,NULL,8030937297,20 million,get more branches
+24,Aunty Ann Home Tutors,Home Tutoring,teaching communication and patience,nil,10k,50k/600k,Nil,NULL,8083064540,NULL,Build a team of home tutors
+25,Forever bee honey centre,Honey Sales,technical know how,50k,20k,50k/600k,1,NULL,8146467751,100k,get more branches
+26,Mayreez Crafts Business,Crafts Business,technical know how,40k,20k,50k/600k,2,NULL,7065837854,100k,Get a larger space
+27,Flower Affairs,Flower Farming/Sales,technical know how,200k,50k,50k/600k,5,NULL,8029741728,200k,Expand my production rate
+28,Mama Malik Charcoal and Firewood,Firewood Sales,Managerial Skills and technical know how,40k,30k,50k/600k,3,NULL,8098073574,100k,get more branches
+29,Gioval paint Company,Paint Manufacturing,Managerial Skills and technical know how,500k,300k,500k/6 million,16,NULL,8134575064,5 million,Build a another plant
+30,Apapa Event/Stage Rentals,Hall/Stage Rentals,Managerial Skills and technical know how,15 million,1 million,500k/6 million,10,NULL,8032952077,100 million,Build a multi purpose hall
+31,Aqua Gracia Sachet Water,Pure Water Business,Managerial Skills and technical know how,2 - 2.5 million,400k,500k/6 million,15,NULL,8030937297,5 million,get more branches
+32,Olamide Lawson Recyclers,Waste Recycling,Managerial Skills and technical know how,1 million,500k,500k/6 million,30,NULL,8178655551,NULL,Get a larger space
+33,Luxury Ease Interior Decors,Interior Decorations/Design,Managerial Skills and technical know how,500k,300k,500k/6 million,8,NULL,8127147140,1 million,get more branches
+34,Ara Phone Battery Chargers,Phone Battery Charging,Managerial Skills and technical know how,40k,30k,40k monthly/ 480k yearly,2,NULL,8032952404,100k,Get a larger space
+35,Shalom Book Stores,Book Store,Managerial Skills,50k,30k,40k monthly/ 480k yearly,2,NULL,8035630725,100k,Get a larger space
+36,Iya Eleyin Chilli Pepper Farmers,Chilli Pepper Farming,Farming Skills ,40k,30k,40k monthly/ 480k yearly,2,NULL,8091139538,50k,get a bigger farm land
+37,Mix and Bake Confectioneries,Baking Confectioneries,Managerial Skills and technical know how,500k,300k,400k/4.8 million,20,NULL,8130897307,1 million,get more branches
+38,Victory Bridal Store Lagos Island,Bridal Store,Managerial Skills and communication skills,3 million,100k,400k/4.8 million,5,NULL,8180064405,5 million,get more branches
+39,Calson Pharmacy Stores,Pharmacy Store,Pharmacy skills and managerial skills,1 million,300k,400k/4.8 million,4,NULL,8055534821,2 million,get more branches
+40,Haze and Hairs E-Centre Yaba,Beauty Salon,technical know how and Patience,1 million,100k,300k monthly/ 3.6 million yearly,14,NULL,9098057852,5 million,Get a larger space
+41,White pearl gym and spa,Massage and Spa,technical know how and Patience,600k,200k,300k monthly/ 3.6 million yearly,10,NULL,7039728009,2 million,get more branches
+42,Gozel Green Fashion Designers,Fashion Designers,Creativity and tailoring,100k,100k,300k monthly/ 3.6 million yearly,3,NULL,8035995057,1 million,Get a nicer office
+43,Unity Social Club,Social Club,Managerial Skills,300k,150k,300k monthly/ 3.6 million yearly,5,NULL,8033766749,500k,Get a larger space
+44,Victory Ice Cream,Ice Cream Production,Managerial Skills and technical know how,300k,300k,300k monthly/ 3.6 million yearly,10,NULL,8034302370,1 million,get more branches
+45,Tony Stone design,Paving Stone Manufacturing,Managerial Skills and technical know how,300k,300k,300k monthly/ 3.6 million yearly,12,NULL,8063540860,1 million,Get a larger space
+46,Amo Farm and Hatchery,Hatchery/Day Old chick Production,Managerial Skills and technical know how,300k,100k,300k monthly/ 3.6 million yearly,20,NULL,8062139595,1 million,Get a larger space
+47,Alhaji Mohammed Cattles,Cattle Farming,Managerial Skills and Shepherding skills,300k,100k,300k monthly/ 3.6 million yearly,5,NULL,8055514515,NULL,Get a larger herd
+48,Eddymore Fisheries,Fish Farming,Managerial Skills and technical know how,300k,100k,300k monthly/ 3.6 million yearly,4,NULL,7061582888,500k,Get a larger space
+49,Agbas Security Agency Lagos Island,Security Agency Company,Human Resource Competence,500k,300k,300k monthly/ 3.6 million yearly,20,NULL,12647344,5 million,Get a nicer office
+50,Omoniyi Frozen Foods/Cold Rooms ,Frozen foods/Cold rooms,Managerial Skills and technical know how,500k,100k,300k monthly/ 3.6 million yearly,5,NULL,7026364033,1 million,Get a larger space
+51,Zodiac Furnitures,Carpentry/Furniture,Managerial Skills and technical know how,100k,100-200k,300k monthly/ 3.6 million yearly,4,Office Cabinet,8083175029,1 million,Get a better show room
+52,Bassey Home Equipments,Home Equipment Sales,Managerial Skills,1 million,150k,300k monthly/ 3.6 million yearly,10,NULL,7058959544,1 million,get more branches
+53,Toasties Bread,Bread Production/Bakery,Managerial Skills and technical know how,500k,300k,300k monthly/ 3.6 million yearly,15,Bread,708396137,1 million,get more branches
+54,True way Caskets,Casket Making,Managerial Skills and technical know how,500k,150k,300k monthly/ 3.6 million yearly,7,NULL,8023349436, 500k,Get a larger space
+55,Freetop Furniture,Furniture Making,Managerial Skills and technical know how,500k,150k,300k monthly/ 3.6 million yearly,10,NULL,7030327465,1 million,Get a larger space
+56,Mekky Drink Depot/ Distribution,Drink Depot/Distribution Business,Managerial Skills and technical know how,10 million,150k,300k monthly/ 3.6 million yearly,5,Hero Lager Beer,8032762648,10 million,Buy more trucks
+57,Adex Waste Disposal Services,Waste Disposal Services,Managerial Skills and technical know how,30 million,2 million,3-5 million,50,NULL,8050509977,NULL,get more branches
+58,Glamour dry cleaning,Dry Cleaning,learning to deal with the different types of mater...100k,50k,250k monthly/ 3million yearly,2,NULL,NULL,0NULL,NULL,
+59,Taxi/Cab Driving,Taxi/Cab Driving,Driving Sincerity Punctuality,400k,80-100k,250k monthly/ 3million yearly,NULL,NULL,8035036680,1 million,buy and lease out more cars
+60,Best Buy Provision Store,Provision Store,Managerial Skills and Patience,300k,100k,250k monthly/ 3million yearly,10,NULL,8057493222,1 million,get more branches
+61,Wine House Lounge,Wine Bar/Store,Managerial Skills and Patience,500k,150k,250k monthly/ 3million yearly,6,NULL,8059116445,2 million,get more branches
+62,MBJ Costume Designers,Costume Designers,Creativity and tailoring,100k,100k,250k monthly/ 3million yearly,3,NULL,8105754348,500k,Get a larger space
+63,Recore Educational Training Centre,Educational Training Centre,teaching communication and patience,50k,100k,250k monthly/ 3million yearly,11,NULL,8033019760,500k,Get a larger space
+64,Just Jewelries Ikeja,Jewerly Store,Managerial Skills,500k,80-100k,250k monthly/ 3million yearly,5,NULL,8023834584,2 million,get more branches
+65,Amaka Catering and Party managers,Cooking/Catering Services,Managerial Skills and Cooking Skills,200k,100k,250k monthly/ 3million yearly,7,NULL,8033432327,500k,Buy Delivery Cars
+66,Kiddies Haven Daycare,Child care/Day care,teaching communication and patience,300k,150k,250k monthly/ 3million yearly,6,NULL,8083256142,500k,Build another centre
+67,Trustee Drugs and Supplies,Drug Supplies,Managerial Skills and technical know how,300k,100k,250k monthly/ 3million yearly,4,NULL,7030755545,500k,get more branches
+68,FarmFresh Dairy World,Dairy Production,Managerial Skills and technical know how,300k,100k,250k monthly/ 3million yearly,10,Yoghurt,8183709898,500k,get more branches
+69,Christo Piggery,Piggery,Managerial Skills and technical know how,200k,100k,250k monthly/ 3million yearly,4,NULL,7067385998,500k,Get a larger space
+70,Powercool Ice Block Dealers,Ice Block Production,Managerial Skills and technical know how,500k,200k,250k monthly/ 3million yearly,10,NULL,8058888888,500k,get more branches
+71,Early Forex Traders,Forex Trading,Econometrics and technical know how,150k,150k,250k monthly/ 3million yearly,3,NULL,8176068481,500k,Get a nicer office
+72,Enopbis Paradise,Gift item sales,Communication skills and patience,200k,60k,200k/2.4million,5,NULL,8182296115,300k,get more branches
+73,Billion Relations Event Management/Wedding Plannin...Event Management/Wedding Decoration,Managerial Skills,50k,50k,200k/2.4million,2,NULL,8068597140,0500k,Get a nicer office,
+74,Matt Computer School,Computer School,Managerial Skills and technical know how,200k,100k,200k/2.4million,10,NULL,7059685018,500k,Get a larger space
+75,Fyn Mec Canopy/Chair rentals,Canopy/Chair Rentals,Managerial Skills,500k,100k,200k/2.4million,10,NULL,007065089880 08035508430,1 million,get more branches
+76,Pick 2 Peak School Dropping/Picking services,School Dropping/Picking Service,Managerial Skills and technical know how,2 - 2.5 million,150k,200-250k monthly/ 2.4-3million yearly,6,NULL,0 8066934260,2 million,Buy a new bus
+77,Pioneer Technologies Ltd,Computer Sales/Repairs,technical know how and Patience,500k,40k,150-200k monthly/ 2.4 million annually,2,Computer sales,0 8095265638,1 million,get more branches
+78,McDumbi leather works,Leather Works,technical know how and Patience,100k,50k,150-200k monthly/ 2.4 million annually,NULL,Shoes and slippers,0 8068767909,300k,Learn more patterns
+79,Standard view Boutique,Boutique,Communication skills and patience,300k,100k,150-200k monthly/ 2.4 million annually,4,NULL,8038829773,500k yes,get more branches
+80,Bimade Restaurant and outdoor catering,Restaurant,cooking,100k,100k,150-200k monthly/ 2.4 million annually,6,NULL,7083204644,500k,get more branches
+81,I.K Beer Parlour,Beer Parlour,Managerial Skills and Patience,100k,150k,150-200k monthly/ 2.4 million annually,6, NULL,8063035344,500k,get more branches
+82,Ajanla Farms,Poultry/Egg Production,technical know how and Patience,100k,100k,150-200k monthly/ 2.4 million annually,6,NULL,8033191512,1 million,Build a bigger farm
+83,Ubabuike Laptop & Accesories,Laptop accessories/sales,Managerial Skills and Patience,300k,50k,150-200k monthly/ 2.4 million annually,4,NULL,8068646043,1 million,get more branches
+84,Debayus welding and metal works,Welding and Metal Works,technical know how,100k,70k,150-200k monthly/ 2.4 million annually,7,NULL,8066503662,300k,get more branches
+85,D\'beat Live band/ music services,Live Band/Music Services,Managerial Skills and technical know how,300k,80-100k,150-200k monthly/ 2.4 million annually,11,NULL,8061245295,500k,Open a new group
+86,Dimaps Batteries,Car Battey Charging,Managerial Skills and technical know how,100k,100k,150-200k monthly/ 2.4 million annually,4,Automobile Batteries,8033018562,500k,Get a larger space
+87,Koma Corporate Cleaners,Corporate Cleaning Services,Managerial Skills and technical know how,100k,100k,150-200k monthly/ 2.4 million annually,20,NULL,8053099020,500k,Get a nicer office
+88,Okomu Palm Oil Business,NULL,Managerial Skills and technical know how,100k,30k,150-200k monthly/ 2.4 million annually,2,NULL,7051128721,200k,Get a larger space
+89,Muhammed Livestock Farming,Goat/Sheep Farming,Managerial Skills and Shepherding skills,100k,40k,150-200k monthly/ 2.4 million annually,2,NULL,7039801124,200k,Get a larger space
+90,Peter Pet Breeders,Pet Breeding,Managerial Skills and technical know how,200k,100k,150-200k monthly/ 2.4 million annually,1, NULL,7050298064,500k,Get a variety of quality breeds
+91,Esypet Bottled Groundnuts,Groundnut Processing,Managerial Skills and technical know how,100k,100k,150-200k monthly/ 2.4 million annually,5,NULL,8188341589,200k,get more branches
+92,Fisayo Rice Depot,Rice Milling,Managerial Skills and technical know how,300k,100k,150-200k monthly/ 2.4 million annually,10,NULL,8054466895,500k,Get a larger space
+93,Rainbow Polimer Nylons,Nylon/Polythene Production,Managerial Skills and technical know how,500k,100k,150-200k monthly/ 2.4 million annually,10,NULL,8055331040,300k,Get a larger space
+94,Alara Art Gallery,Art Collection/Gallery,Managerial Skills and technical know how,500k,150k,150-200k monthly/ 2.4 million annually,5,NULL,8036578403,1 million,Expand the gallery
+95,Fitness Central,Fitness Centre,technical know how and knowledge of physical education,1 million,80-100k,150-200k monthly/ 2.4 million annually,5,NULL,8177410926,2 million,Expand the centre
+96,Sewing/Supply of Specialized Uniforms Tosmege,Sewing/Supply of Specialized Uniforms,Tailoring and Patience,100k,100k,100k monthly/ 1.2 million yearly,10,NULL,8067671454,500k,Get a larger space
+97,Twins Snail Farm,Snail Farming,Knowing the best specie of snails,50k,30k,100k monthly/ 1.2 million yearly,2,NULL,8067196185,200k,get more branches
+98,McDumbi Shoes,Shoe Making,technical know how and Patience,100k,30k,100k monthly/ 1.2 million yearly,1,NULL,8068767909,200k,Buy more sophisticated equipments
+99,Nonso Beads making,Beads Making,technical know how,40k,40k,100k monthly/ 1.2 million yearly,3,NULL,8066100090,200k,get more branches
+100,Tomi Sports Bar Viewing Centre,Viewing Centre,Managerial Skills,100k,60k,100k monthly/ 1.2 million yearly,4,NULL,8098521065,200k,Get a larger space
+101,Sewing/Tailor Services Ken tailors,Sewing/Tailor Services,Tailoring and Patience,50k,50k,100-150k monthly/ 1.2- 1.6million yearly,NULL,NULL,7063016837,400k,Start selling materials
+102,Airflow Engineering Works Generator Repairs,Generator Repairs,technical know how,50k,50k,100-150k monthly/ 1.2- 1.6million yearly,4,NULL,8075093781,200k,get more branches
+103,T.I Fridge repairs,Fridge Repairs,technical know how,50k,40k,100-150k monthly/ 1.2- 1.6million yearly,3,NULL,8029764421,200k,get more branches
+104,Onu Plumbing Services,Plumbing Services,technical know how,50k,40k,100-150k monthly/ 1.2- 1.6million yearly,5,NULL,8138588032,300k,get more branches
+105,Uzu Block/Brick Industry,Brick/Block Industry,Managerial Skills and technical know how,100k,80-100k,100-150k monthly/ 1.2- 1.6million yearly,1,NULL,8037755083,500k,Get a larger space
+106,CrossLink Cyber Cafe,Cyber Cafe Set Up,Managerial Skills and technical know how,100k,80-100k,100-150k monthly/ 1.2- 1.6million yearly,5,NULL,8167722705,200k,get more branches
+107,Eagles Exterior Designs/Decor,Exterior Design/Decorations,Managerial Skills and technical know how,300k,100k,100-150k monthly/ 1.2- 1.6million yearly,10,NULL,8189461904,500k,get more branches
+108,George Freelance marketing,Freelance Marketing,Communication skills and Composure,NULL,50k,100-150k monthly/ 1.2- 1.6million yearly,1,NULL,8033351850,NULL,Create an agency
+109,1st Business Brokerage Nigeria,Business Brokerage,Communication skills and Composure,300k,100k,100-150k monthly/ 1.2- 1.6million yearly,4,NULL,8188006688,500k,Get a nicer office
+110,Christarwash Carpet/ car cleaners,Carpet Cleaning/ Car Wash,Managerial Skills and technical know how,100k,50k,100-150k monthly/ 1.2- 1.6million yearly,5,NULL,7082447599,500k,Get a larger space
+111,Berry Fresh Juice Production,Fresh Juice Production,Managerial Skills and technical know how,100k,40k,100-150k monthly/ 1.2- 1.6million yearly,5,NULL,7031036499,200k,Increase Production
+112,KD Quail Farms,Quail Farming,Managerial Skills and technical know how,100k,40k,100-150k monthly/ 1.2- 1.6million yearly,2,NULL,8057911175,100k,Get a larger space
+113,KD Quail Farms,Quail Farming,Managerial Skills and technical know how,100k,40k,100-150k monthly/ 1.2- 1.6million yearly,2,NULL,8057911175,100k,Get a larger space
+114,KD Quail Farms,Quail Farming,Managerial Skills and technical know how,100k,40k,100-150k monthly/ 1.2- 1.6million yearly,2,NULL,8057911175,100k,Get a larger space
+115,Mama Onye Yam Depot,Yam farming,Managerial Skills and technical know how,300k,100k,100-150k monthly/ 1.2- 1.6million yearly,2,NULL,8032516728,200k,Get a larger space
+116,Snazzy Cocoa Farming,Cocoa Farming,Managerial Skills and technical know how,100k,30k,100-150k monthly/ 1.2- 1.6million yearly,4,NULL,7033941995,200k,Get a larger space
+117,Allub Quality Chalk,Chalk Manufacturing,Managerial Skills and technical know how,100k,50k,100-150k monthly/ 1.2- 1.6million yearly,10,NULL,8024111121,500k,Expand the factory
+118,Attisco Paper/Envelope Producers,Paper/Envelope Manufacturing,Managerial Skills and technical know how,200k,80-100k,100-150k monthly/ 1.2- 1.6million yearly,4,NULL,8033436879,200k,Get a larger space
+119,Dicta Yoghurt,Yoghurt Production,Managerial Skills and technical know how,80-100k,100k,100-150k monthly/ 1.2- 1.6million yearly,10,NULL,8064018389,500k,get more branches
+120,Language Centre,Language School,Language skills and communication skills,100k,50k,100-150k monthly/ 1.2- 1.6million yearly,5,NULL,8170761006,200k,Get a larger space
+121,Okey Vert.Services,Animal Clinic,Managerial Skills and technical know how,400k,150k,100-150k monthly/ 1.2- 1.6million yearly,2,NULL,8034968039,500k,get more branches
+122,Transport Business,Transport Company,Managerial Skills and technical know how,100 million,10-15 millio,10-15 million monthly/ 120-180 million yearly,40,NULL,8036685369,NULL,Buy more buses
+123,Radio Station,Radio Station,Managerial Skills and technical know how,50 million,10 million,10 million monthly/ 120 million yearly,10,NULL,8036964063,50 million,Build another Station
+124,Onion Spring Hotels,Hotels,Managerial Skills,15 million,1 million,1 million/ 12million,10,NULL,8064290423,20 million,Build more hotels
+125,Qmed Diagnostic Centre,Health Diagnostic Centre,Managerial Skills and technical know how,30 million,1 million,1 million/ 12million,20,NULL,8033002946,NULL,Get another branch
+126,OyiGlass Manufacturers,Glass Manufacturing,Managerial Skills and technical know how,5 million,700k,1 million/ 12million,30,NULL,8052095021,NULL,Expand the factory
+127,D\'pavilion Lounge,Night Club,Managerial Skills,10-15 million,800k,1 million monthly/ 12 million Yearly,25,NULL,8092972914,NULL,get more branches

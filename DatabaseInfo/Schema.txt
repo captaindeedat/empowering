@@ -1,0 +1,23 @@
+﻿CREATE TABLE Business(
+	business_id serial PRIMARY KEY,
+	category_id int,
+	business_name varchar(150) NOT NULL,
+	business_type varchar(150) NOT NULL,
+	important_skill varchar(150) NOT NULL,
+	fund_required varchar(50) NOT NULL,
+	monthly_expenditure varchar(50) NOT NULL,
+	monthly_annual_profit varchar(50) NOT NULL,
+	number_staff int,
+	major_product varchar(80),
+	contact_phone varchar(30),
+	expansion_capital varchar(25),
+	first_expansion_strategy varchar(150),
+	actual_fund int,
+	actual_monthly_expenditure int
+);
+
+CREATE TABLE Category(
+	category_id serial PRIMARY KEY,
+	category_name varchar(50),
+	category_description TEXT
+);

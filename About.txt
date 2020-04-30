@@ -1,0 +1,9 @@
+This project was founded to combat unemployment by guiding individuals to become enterprenuers.
+
+Tools
+Python
+Sql
+
+Library
+Psycopg2
+TraitsUI
